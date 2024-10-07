@@ -1,0 +1,7 @@
+the frontend person1
+-pull,push and check
+-do
+
+the frontend person2
+-pull,push and check
+-do
